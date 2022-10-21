@@ -13,6 +13,6 @@ first install mysql
 * step 3: `npm install` or `npm update`.
 * step 4: start your MySQL Server `mysqld` or `mysqld_safe`
 * step 5: install nodemon `npm install --save nodemon` or `npm -g install nodemon`.
-* step 6: `nodemon start`
+* step 6: run this `nodemon start`
 
 `http://localhost:3000`
