@@ -40,7 +40,7 @@ or
 npm update
 ```
 * step 4: start your MySQL Server ```bash
-mysqld
+mysqld -u root -p
 ```
 or
 ```bash
