@@ -1,10 +1,25 @@
 # How to Connect Nodejs in MySQL Database
 first install mysql
-`npm install mysql` or
-`npm install mysqljs/mysql`
+```bash
+npm install mysql
+```
+or
+```bash
+npm install mysqljs/mysql
+```
 
 ## install ExpressJs
-`npm install express` or `npm install --save express` or `npm i express`
+```bash
+npm install express
+```
+ or
+```bash
+npm install --save express
+```
+or 
+```bash
+npm i express
+```
 
 
 ### How to Setup this project
