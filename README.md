@@ -52,7 +52,8 @@ npm install --save nodemon
 ```
 or
 if you want nodemon install globally
-```bash npm -g install nodemon
+```bash
+npm -g install nodemon
 ```
 * step 6: how to run this app
 ```bash
