@@ -1,4 +1,4 @@
-### Nodejs and MySQL condig
+### Nodejs and MySQL config
 ```js
 // MySQL and Nodejs config
 const db = mysql.createConnection({
