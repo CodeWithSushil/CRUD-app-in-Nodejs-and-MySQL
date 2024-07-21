@@ -39,10 +39,7 @@ or
 ```bash
 npm update
 ```
-* step 4: start your MySQL Server ```bash
-mysqld -u root -p
-```
-or
+* step 4: start your MySQL Server
 ```bash
 mysqld_safe
 ```
