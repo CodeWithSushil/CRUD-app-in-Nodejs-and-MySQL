@@ -24,16 +24,16 @@ npm i express
 
 ### How to Setup this project
 * step 1: git clone this project.
-  ```bash
-  git clone https://github.com/CodeWithSushil/CRUD-app-in-Nodejs-and-MySQL.git
-  ```
+```bash
+git clone https://github.com/CodeWithSushil/CRUD-app-in-Nodejs-and-MySQL.git
+```
 * step 2: go to project.
-  ```bash
-  cd CRUD-app-in-Nodejs-and-MySQL
-  ```
-* step 3:
- ```bash
-  npm install
+```bash
+cd CRUD-app-in-Nodejs-and-MySQL
+```
+* step 3: install package or update package
+```bash
+npm install
 ```
 or
 ```bash
