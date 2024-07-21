@@ -1,3 +1,14 @@
+### Nodejs and MySQL condig
+```js
+// MySQL and Nodejs config
+const db = mysql.createConnection({
+  host     : 'localhost',
+  user     : 'root',
+  password : '',
+  database : 'nodejs'
+});
+```
+
 ### Install MySQL
 first install mysql
 ```bash
@@ -57,6 +68,6 @@ npm -g install nodemon
 nodemon start
 ```
 * step 7: Open App URL
-  ```bash
-  http://localhost:3000
-  ```
+```bash
+http://localhost:3000
+```
