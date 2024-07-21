@@ -1,4 +1,4 @@
-# How to Connect Nodejs in MySQL Database
+### Install MySQL
 first install mysql
 ```bash
 npm install mysql
@@ -8,7 +8,7 @@ or
 npm install mysqljs/mysql
 ```
 
-## install ExpressJs
+### install ExpressJs
 ```bash
 npm install express
 ```
@@ -24,10 +24,41 @@ npm i express
 
 ### How to Setup this project
 * step 1: git clone this project.
+  ```bash
+  git clone https://github.com/CodeWithSushil/CRUD-app-in-Nodejs-and-MySQL.git
+  ```
 * step 2: go to project.
-* step 3: `npm install` or `npm update`.
-* step 4: start your MySQL Server `mysqld` or `mysqld_safe`
-* step 5: install nodemon `npm install --save nodemon` or `npm -g install nodemon`.
-* step 6: run this `nodemon start`
-
-`http://localhost:3000`
+  ```bash
+  cd CRUD-app-in-Nodejs-and-MySQL
+  ```
+* step 3:
+ ```bash
+  npm install
+```
+or
+```bash
+npm update
+```
+* step 4: start your MySQL Server ```bash
+mysqld
+```
+or
+```bash
+mysqld_safe
+```
+* step 5: install nodemon
+```bash
+npm install --save nodemon
+```
+or
+if you want nodemon install globally
+```bash npm -g install nodemon
+```
+* step 6: how to run this app
+```bash
+nodemon start
+```
+* step 7: Open App URL
+  ```bash
+  http://localhost:3000
+  ```
